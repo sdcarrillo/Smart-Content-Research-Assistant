@@ -39,6 +39,10 @@ python src/main.py
 - modify 1 to "Nuevo título"
 - add "Nuevo subtema"
 
+Podes combinar comandos con ';'.
+Si no usás 'approve', se asume que todo lo no 'reject' se mantiene.
+
+
 ## Notas
 
 Desarrollado como demostración de diseño de sistemas de IA con LangGraph y Azure OpenAI.
