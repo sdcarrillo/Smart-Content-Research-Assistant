@@ -30,6 +30,7 @@ AZURE_OPENAI_STANDARD_DEPLOYMENT=gpt-4o
 AZURE_OPENAI_PREMIUM_DEPLOYMENT=gpt-4o
 
 python src/main.py
+```
 
 ## Comandos disponibles
 
