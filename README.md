@@ -37,7 +37,7 @@ python src/main.py
 - approve 1,3
 - reject 2
 - modify 1 to "Nuevo título"
-- add "Nuevo subtema
+- add "Nuevo subtema"
 
 ## Notas
 
