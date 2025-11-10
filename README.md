@@ -40,6 +40,7 @@ python src/main.py
 - add "Nuevo subtema"
 
 Podes combinar comandos con ';'.
+
 Si no usás 'approve', se asume que todo lo no 'reject' se mantiene.
 
 
